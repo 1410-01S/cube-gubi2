@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Cube",
+            "request": "launch",
+            "mainClass": "com.example.project.Cube",
+            "projectName": "cube-gubi2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cube",
+            "request": "launch",
+            "mainClass": "Cube",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
